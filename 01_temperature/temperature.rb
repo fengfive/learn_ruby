@@ -4,5 +4,5 @@ def ftoc(num)
 end
 
 def ctof(num)
-  num.to_f * 9 / 5 + 32
+  num.to_f * 9 / 5 + 32 
 end
